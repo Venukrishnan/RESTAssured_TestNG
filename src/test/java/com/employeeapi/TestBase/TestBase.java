@@ -15,6 +15,7 @@ public class TestBase {
 	public String empID="51838";
 	public static String ExcelFileLoc="C:\\Users\\Gopu\\eclipse-workspace\\RestAssuresTest_Framework\\TestData\\RestAssuredTestData.xlsx";
 	public static String ExcelSheet="EmployeeAPI";
+	public static String RequestType,BaseURI,URL,Authenticator,AuthenticationParameter,RequestParameters,ResponseType,HeaderVerification,BodyVerification;
 	
 	public Logger logger;
 	
